@@ -4,7 +4,7 @@
 
 Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 
-[🔗 Clique aqui para acessar](https://gleidsongl.github.io/nlw/)
+[🔗 Clique aqui para acessar](https://gleidsongl.github.io/projeto/)
 
 ## 🔧 Tecnologias
 
